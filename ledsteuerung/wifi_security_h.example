@@ -1,0 +1,9 @@
+#ifndef WIFISECURITY_H
+#define WIFISECURITY_H
+
+char wifi_ssid[]="<wifi_ssid>";
+char wifi_pwd[]="<wifi_pwd>";
+char wifi_ssid_cell_ap[]="<wifi_ssid_cell_ap>";
+char wifi_pwd_cell_ap[]="<wifi_pwd_cell_ap>";
+
+#endif /* WIFISECURITY_H */
